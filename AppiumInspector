@@ -1,0 +1,15 @@
+{
+  "app": "E:\\Automation Empire\\MobileAutomationTesting\\src\\test\\java\\resources\\ApiDemos-debug.apk",
+  "deviceName": "AshwinEmulator",
+  "platformName": "android",
+  "automationName": "UIautomator2"
+}
+
+
+{
+ "app" : "E:\\Automation Empire\\MobileAutomationTesting\\src\\test\\java\\resources\\General-Store.apk"
+
+}
+
+// Appium Gesture
+https://github.com/appium/appium-uiautomator2-driver/blob/master/docs/android-mobile-gestures.md

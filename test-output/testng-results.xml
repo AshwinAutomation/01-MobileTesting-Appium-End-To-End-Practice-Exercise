@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="38083" started-at="2023-05-22T10:31:58Z" finished-at="2023-05-22T10:32:36Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="38083" started-at="2023-05-22T10:31:58Z" finished-at="2023-05-22T10:32:36Z">
+      <class name="com.mobile.appium.ecommerce.TestCase_4_CalcuteTotalAmounts">
+        <test-method status="PASS" signature="configAppium()[pri:0, instance:com.mobile.appium.ecommerce.TestCase_4_CalcuteTotalAmounts@470f1802]" name="configAppium" is-config="true" duration-ms="10795" started-at="2023-05-22T10:31:58Z" finished-at="2023-05-22T10:32:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configAppium -->
+        <test-method status="PASS" signature="validateCalculateTotalAmounts()[pri:0, instance:com.mobile.appium.ecommerce.TestCase_4_CalcuteTotalAmounts@470f1802]" name="validateCalculateTotalAmounts" duration-ms="27255" started-at="2023-05-22T10:32:09Z" finished-at="2023-05-22T10:32:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateCalculateTotalAmounts -->
+      </class> <!-- com.mobile.appium.ecommerce.TestCase_4_CalcuteTotalAmounts -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
